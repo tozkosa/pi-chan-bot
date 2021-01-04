@@ -1,4 +1,4 @@
-import pya3rt
+""" import pya3rt
 
 def talk_ai(word):
     apikey = "DZZc3U3GHk8ST7wZfcaRxFCyh20heP90"
@@ -8,3 +8,4 @@ def talk_ai(word):
 
 talk_ai("好きな食べ物は？")
 
+ """
